@@ -5,13 +5,14 @@ stat> mulvivate>principle components>選國文到經濟
 
 相關係數(預設) 或共變異矩正(少用)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e07ea2f-3641-4022-8803-599e9243c009/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191564395-7e3ee4f0-8a5f-481d-a5ca-4843395aa926.png)
+
 
 3.14/5(五個變異數) = 0.63
 
 用一個變異數取代五個變數63%資訊量
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0f73167-fc05-49be-b0e3-a6b0a02fe94e/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191564508-1cb6f1bd-c4a1-4551-b14f-f607bfdce3d4.png)
 
 陡坡圖 principle components>gragh>scree plot
 
@@ -19,9 +20,9 @@ eigenvalue 每個主成分的變異數
 
 如何選幾個? 變異數1以上保留，pc要取代至少要比一個原來的單變數的資訊量多(假設元變異數為1) 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a4877e3-7c56-4faf-adb4-247dbf64b2d8/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191564587-6bfe93e6-8879-461e-99fa-222014397183.png)
 
----
+--
 
 principle components>gragh>scree plot>Score plot for first two component
 
@@ -29,15 +30,15 @@ pc1 pc2 沒有相關 主成分一二獨立
 
 add> data labels>use label from column c1 ID
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd4caa7a-e5b2-4a75-a7f8-2606a055d5c0/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191564737-67a534d9-0c89-450c-9b09-9114aa51919e.png)
 
 主成分分析>選國文到經濟>Storage>Score 放c8-c9
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d2a911b-073e-4511-8632-299ec565891a/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191564805-0c66c049-d0a5-47e2-8d7d-5f8e05293cb5.png)
 
 Stat>basic>correlation>選國文-經濟 PC1-PC2
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6288d33b-eb18-486a-99ae-e1a5d0b87503/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191564858-1d8be5c0-b954-4df9-b881-1b97985c73c0.png)
 
 一號和三號組成分的得分最大 兩位的平均得分最高分
 
@@ -61,13 +62,14 @@ Loading 相關係數
 
 Loading plot
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ec51f7a-85b6-4ae5-8fa3-14a58ed48084/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191564927-359e02c5-a5b1-4907-b6ec-7c712f3b14ca.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b423caf-2306-481d-9214-f92a4d7b1e35/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191564981-6330897d-a7ed-40c4-832b-8ca9ec81897f.png)
 
 M式距離
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e1d9f50-1a38-42df-aff7-e6327c1a77e6/Untitled.png)
+![image](https://user-images.githubusercontent.com/66659394/191565026-18bad6af-dcc3-4871-9bea-0b73cca0b6fe.png)
+
 
 原本有許多變數 對資料做應用 太多複雜
 
